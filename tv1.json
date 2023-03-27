@@ -1,23 +1,9 @@
 {
-    "spider": "http://bt.hm.iqinu.com:32000/box/sub/jar/loamen_spider.jar;md5;0a05825c82a070067a97405320d1ac98",
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "redirect",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly93d3cubG9vby50b3AvYXBwL2NvbmYvbGl2ZS50eHQ="
-                    ]
-                }
-            ]
-        }
-    ],
-    "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
+
     "sites": [
         {
             "key": "csp_sp_酷云七七",
-            "name": "接口转译自龙门影视",
+            "name": "备份源 一",
             "type": 3,
             "api": "csp_Kunyu77",
             "searchable": 1,
